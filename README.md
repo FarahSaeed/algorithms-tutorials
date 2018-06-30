@@ -1,4 +1,4 @@
-# tutorials-algos
+# algorithms-tutorials
 This reposiory consists of tutorials for Algorithms analysis and design for anyone who wants to learn algorithms.
 It covers following aspects:
 - Time complexity
